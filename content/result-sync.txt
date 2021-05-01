@@ -1,0 +1,3 @@
+Here is the result: 
+First: Hello this is first text file in the content folder., 
+Second: Hello this is second text file in the subfolder..
